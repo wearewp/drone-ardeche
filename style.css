@@ -1,0 +1,31 @@
+/*
+Theme Name:		Drone Ardèche
+Description:	Theme Drone Ardèche.
+Theme URI:		https://www.wp-assistance.fr
+Author:			WP Assistance
+Author URI:		https://www.wp-assistance.fr
+Version:		1.0
+template:		enfold
+*/
+
+#main .main_color a {
+	color: #222222 !important;
+}
+
+.title_container .breadcrumb {
+	position: initial;
+	margin-top: 0;
+}
+
+.html_elegant-blog .avia-content-slider .slide-entry-title {
+	color: #222222;
+	font-weight: 600;
+}
+
+.widgettitle {
+	font-size: 15px!important;
+    font-family: 'Open Sans','HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;
+	line-height: 1.1em;
+    margin-bottom: 8px;
+}
+
